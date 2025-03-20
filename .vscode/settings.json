@@ -1,0 +1,14 @@
+{
+  "i18n-ally.localesPaths": [
+    "public/locals",     // 你的语言文件目录
+  ],
+  "i18n-ally.keystyle": "nested",  // 支持嵌套的翻译键
+  "i18n-ally.sourceLanguage": "en", // 源语言
+  "i18n-ally.displayLanguage": "zh-CN", // 显示语言
+  "i18n-ally.enabledFrameworks": ["react"],
+  "i18n-ally.namespace": true, // 是否启用命名空间
+  "i18n-ally.pathMatcher": "{locale}.json", // 语言文件的命名模式
+  "i18n-ally.sortKeys": true, // 自动排序翻译键
+  "i18n-ally.keepFulfilled": true, // 保留已翻译的键
+  "i18n-ally.extract.autoDetect": true, // 自动检测可提取的文本
+}

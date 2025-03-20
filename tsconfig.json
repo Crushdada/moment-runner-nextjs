@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node", // 改为 "node"
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve", // 改为 "react-jsx"
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./*"
+      ],
+      "@lib/*": [
+        "./app/lib/*"
+      ],
+      "@utils": [
+        "./app/lib/utils"
+      ]
+    },
+    "forceConsistentCasingInFileNames": true, // 添加此行
+    "allowSyntheticDefaultImports": true // 添加此行
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "app/lib/placeholder-data.ts",
+    "scripts/seed.js",
+    "components/**/*.ts", // 添加此行
+    "components/**/*.tsx" // 添加此行
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

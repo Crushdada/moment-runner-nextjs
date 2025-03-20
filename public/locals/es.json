@@ -1,0 +1,173 @@
+{
+  "Alaska": "Alaska",
+  "Argentina": "Argentina",
+  "Atlantic": "Atlántico",
+  "Australia-Eastern": "Australia Oriental",
+  "Azerbaijan": "Azerbaiyán",
+  "Azores": "Azores",
+  "Bangladesh": "Bangladesh",
+  "Central": "Central",
+  "Central-European": "Europa Central",
+  "China": "China",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "Documentación de Day.js",
+  "Eastern": "Este",
+  "Eastern-European": "Europa del Este",
+  "Greenwich": "Greenwich",
+  "Hawaii-Aleutian": "Hawái-Aleutiano",
+  "IDLW": "IDLW",
+  "Indian": "India",
+  "Japan": "Japón",
+  "Midway-Island": "Isla Midway",
+  "Migrate tip": "Consejo de migración",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "Documentación de Moment.js",
+  "Moscow": "Moscú",
+  "Mountain": "Montaña",
+  "Pacific": "Pacífico",
+  "Pakistan": "Pakistán",
+  "Solomon-Islands": "Islas Salomón",
+  "South-Georgia": "Georgia del Sur",
+  "addPluginsNote": "Ten en cuenta que agregarás plugins según los requisitos de tu proyecto",
+  "add_time": "Agregar tiempo",
+  "calculate_time_difference": "Calcular diferencia de tiempo",
+  "check_date_validity": "Verificar validez de fecha",
+  "check_two_dates_order": "Verificar orden de dos fechas",
+  "compare_dates_sequence": "Comparar secuencia de fechas",
+  "convert_to_iso_string": "Convertir a cadena ISO",
+  "convert_to_local_time_zone": "Convertir a zona horaria local",
+  "convert_to_utc": "Convertir a UTC",
+  "copy_moment": "Copiar objeto moment",
+  "dark": "Oscuro",
+  "date_processing": "procesamiento de fechas",
+  "date_tools": "herramientas de fecha",
+  "dayjsNoPluginTitle": "dayjs sin plugins (código fuente)",
+  "dayjs_doc": "Documento Day.js",
+  "findMethodsTitle": "Cómo encontrar métodos utilizados en tu proyecto",
+  "format_date_time": "Formatear fecha y hora",
+  "get_current_time": "Obtener hora actual",
+  "get_set_hour": "Obtener o establecer horas",
+  "javascriptCode": "Código JavaScript",
+  "js_runner": "ejecutor de js",
+  "light": "Claro",
+  "meta_desc": "Experimenta el poder de Moment.js y Day.js con nuestra plataforma en línea. Realiza cálculos, formateo, análisis y manipulación de fechas y horas con facilidad",
+  "meta_keywords": "área de juegos dayjs, Moment.js Sandbox, área de juegos Momentjs, Moment.js, Day.js, moment runner, JS runner, procesamiento de fechas",
+  "migrate": {
+    "meta_desc": "Esta página proporciona una guía para migrar de Moment.js a Day.js, incluidos métodos comunes para buscar y minimizar la versión de Day.js e instrucciones de uso del complemento.",
+    "meta_keywords": "Moment.js, Day.js, JavaScript, biblioteca de fecha y hora, migración, peso ligero",
+    "title": "¿Cómo migrar de momentjs a dayjs?"
+  },
+  "migrate_tip": "Consejo de migración",
+  "minimalVersion": "Versión mínima",
+  "momentjs_doc": "Documento Moment.js",
+  "momentjs_online_runner": "Ejecutor en línea de Moment.js",
+  "online_running": "ejecución en línea",
+  "reset": "Reiniciar",
+  "runcode": "Ejecutar código",
+  "set_end_of_time": "Establecer fin de tiempo",
+  "set_start_of_time": "Establecer inicio de tiempo",
+  "simplifyProcess": "Simplifica el proceso agregando plugins según sea necesario y probando las diferencias entre moment y dayjs, como reemplazar startOf('isoweek') con startOf('week') endOf",
+  "site": {
+    "runner_title": "Ejecute su código ahora mismo",
+    "title": "Zona de juegos Moment.js"
+  },
+  "system": "Sistema",
+  "time_processing": "procesamiento de tiempo",
+  "ultraLightweight": "Puedes llamarla la versión ultra ligera",
+  "userName": "Nombre de usuario",
+  "verify_same_date": "Verificar misma fecha"
+}

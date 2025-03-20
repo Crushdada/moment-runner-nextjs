@@ -1,0 +1,173 @@
+{
+  "Alaska": "阿拉斯加标准时间",
+  "Argentina": "阿根廷标准时间",
+  "Atlantic": "大西洋标准时间",
+  "Australia-Eastern": "澳大利亚东部标准时间",
+  "Azerbaijan": "阿塞拜疆标准时间",
+  "Azores": "亚速尔群岛标准时间",
+  "Bangladesh": "孟加拉标准时间",
+  "Central": "中部标准时间",
+  "Central-European": "中欧时间",
+  "China": "中国标准时间",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "Day.js 文档",
+  "Eastern": "东部标准时间",
+  "Eastern-European": "东欧时间",
+  "Greenwich": "格林威治平均时间",
+  "Hawaii-Aleutian": "夏威夷-阿留申标准时间",
+  "IDLW": "国际日期变更线西侧时区",
+  "Indian": "印度标准时间",
+  "Japan": "日本标准时间",
+  "Midway-Island": "中途岛时间",
+  "Migrate tip": "迁移指南",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "Moment.js 文档",
+  "Moscow": "莫斯科标准时间",
+  "Mountain": "山地标准时间",
+  "Pacific": "太平洋标准时间",
+  "Pakistan": "巴基斯坦标准时间",
+  "Solomon-Islands": "所罗门群岛时间",
+  "South-Georgia": "南乔治亚时间",
+  "addPluginsNote": "请注意,您将根据项目需求添加插件",
+  "add_time": "增加时间",
+  "calculate_time_difference": "计算时间差",
+  "check_date_validity": "检查日期是否有效",
+  "check_two_dates_order": "检查日期是否在给定日期之后",
+  "compare_dates_sequence": "检查日期是否在给定日期之前",
+  "convert_to_iso_string": "将Moment对象转换为ISO 格式的字符串",
+  "convert_to_local_time_zone": "将时间转换为本地时区",
+  "convert_to_utc": "将时间转换为 UTC",
+  "copy_moment": "创建当前Moment实例的深拷贝",
+  "dark": "暗黑",
+  "date_processing": "日期处理",
+  "date_tools": "日期工具",
+  "dayjsNoPluginTitle": "dayjs 无插件版本(源代码)",
+  "dayjs_doc": "Day.js 文档",
+  "findMethodsTitle": "如何找出您项目中使用的方法",
+  "format_date_time": "格式化日期时间",
+  "get_current_time": "获取当前时间",
+  "get_set_hour": "获取或设置Moment对象的小时数",
+  "javascriptCode": "JavaScript 代码",
+  "js_runner": "JS运行器",
+  "light": "明亮",
+  "meta_desc": "通过我们的在线平台体验Moment.js和Day.js的强大功能轻松运行日期和时间处理操作，利用这些流行的JavaScript库的能力轻松执行日期和时间的计算、格式化、解析和操作",
+  "meta_keywords": "dayjs 游乐场、Moment.js 沙箱、Momentjs 游乐场、Moment.js、Day.js、时刻跑步者、JS 跑步者、日期处理",
+  "migrate": {
+    "meta_desc": "本页面提供了从 Moment.js 迁移到 Day.js 的指南，包括查找、最小化 Day.js 版本的常用方法以及插件使用说明。",
+    "meta_keywords": "Moment.js、Day.js、JavaScript、日期时间库、迁移、轻量级",
+    "title": "如何从momentjs迁移到dayjs？"
+  },
+  "migrate_tip": "迁移指南",
+  "minimalVersion": "最小版本",
+  "momentjs_doc": "Moment.js 文档",
+  "momentjs_online_runner": "Moment.js 在线运行器",
+  "online_running": "在线运行",
+  "reset": "重置",
+  "runcode": "运行",
+  "set_end_of_time": "设置时间结束位置",
+  "set_start_of_time": "设置时间开始位置",
+  "simplifyProcess": "通过按需添加插件并测试 moment 和 dayjs 之间的差异来简化流程,例如将 startOf('isoweek') 替换为 startOf('week') endOf",
+  "site": {
+    "runner_title": "立即运行您的代码",
+    "title": "Moment.js 游乐场"
+  },
+  "system": "系统",
+  "time_processing": "时间处理",
+  "ultraLightweight": "您可以称之为超轻量级版本",
+  "userName": "用户名",
+  "verify_same_date": "检查日期是否与给定日期相同"
+}

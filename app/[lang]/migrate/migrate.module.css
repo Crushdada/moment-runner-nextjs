@@ -1,0 +1,41 @@
+.app {
+  display: flex;
+  margin-top: 20px;
+  width: 60%;
+  flex-direction: column;
+  margin: 20px auto;
+}
+
+.app h1 {
+  font-size: 24px;
+}
+
+.app h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.codeBlock {
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+  color: cadetblue;
+}
+
+.app code {
+  font-family: Consolas, monospace;
+}
+
+.app a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.app a:hover {
+  text-decoration: underline;
+}
+
+.app p {
+  margin-bottom: 10px;
+}

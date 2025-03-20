@@ -1,0 +1,173 @@
+{
+  "Alaska": "अलास्का",
+  "Argentina": "अर्जेंटीना",
+  "Atlantic": "अटलांटिक",
+  "Australia-Eastern": "ऑस्ट्रेलिया पूर्वी",
+  "Azerbaijan": "अज़रबैजान",
+  "Azores": "अज़ोरेस",
+  "Bangladesh": "बांग्लादेश",
+  "Central": "मध्य",
+  "Central-European": "मध्य यूरोपीय",
+  "China": "चीन",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "Day.js दस्तावेज़",
+  "Eastern": "पूर्वी",
+  "Eastern-European": "पूर्वी यूरोपीय",
+  "Greenwich": "ग्रीनविच",
+  "Hawaii-Aleutian": "हवाई-एल्यूशियन",
+  "IDLW": "IDLW",
+  "Indian": "भारतीय",
+  "Japan": "जापान",
+  "Midway-Island": "मिडवे द्वीप",
+  "Migrate tip": "माइग्रेट टिप",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "Moment.js दस्तावेज़",
+  "Moscow": "मास्को",
+  "Mountain": "पर्वतीय",
+  "Pacific": "प्रशांत",
+  "Pakistan": "पाकिस्तान",
+  "Solomon-Islands": "सोलोमन द्वीप",
+  "South-Georgia": "दक्षिण जॉर्जिया",
+  "addPluginsNote": "कृपया ध्यान दें कि आप अपने प्रोजेक्ट की आवश्यकताओं के आधार पर प्लगइन जोड़ेंगे",
+  "add_time": "समय जोड़ें",
+  "calculate_time_difference": "समय अंतर की गणना करें",
+  "check_date_validity": "तिथि वैधता जांचें",
+  "check_two_dates_order": "दो तिथियों का क्रम जांचें",
+  "compare_dates_sequence": "तिथियों के अनुक्रम की तुलना करें",
+  "convert_to_iso_string": "ISO स्ट्रिंग में परिवर्तित करें",
+  "convert_to_local_time_zone": "स्थानीय समय क्षेत्र में परिवर्तित करें",
+  "convert_to_utc": "UTC में परिवर्तित करें",
+  "copy_moment": "moment ऑब्जेक्ट कॉपी करें",
+  "dark": "डार्क",
+  "date_processing": "तिथि प्रसंस्करण",
+  "date_tools": "तिथि उपकरण",
+  "dayjsNoPluginTitle": "प्लगइन के बिना dayjs (स्रोत कोड)",
+  "dayjs_doc": "Day.js दस्तावेज़",
+  "findMethodsTitle": "अपने प्रोजेक्ट में उपयोग किए गए मेथड्स कैसे खोजें",
+  "format_date_time": "तिथि समय फॉर्मेट करें",
+  "get_current_time": "वर्तमान समय प्राप्त करें",
+  "get_set_hour": "घंटे प्राप्त करें या सेट करें",
+  "javascriptCode": "जावास्क्रिप्ट कोड",
+  "js_runner": "js रनर",
+  "light": "लाइट",
+  "meta_desc": "हमारे ऑनलाइन प्लेटफॉर्म के साथ Moment.js और Day.js की शक्ति का अनुभव करें। तिथियों और समय की गणना, फॉर्मेटिंग, पार्सिंग और हेरफेर आसानी से करें",
+  "meta_keywords": "डेज खेल का मैदान, मोमेंट.जेएस सैंडबॉक्स, मोमेंटज खेल का मैदान, मोमेंट.जेएस, डे.जेएस, मोमेंट रनर, जेएस रनर, डेट प्रोसेसिंग",
+  "migrate": {
+    "meta_desc": "यह पृष्ठ Moment.js से Day.js पर माइग्रेट करने के लिए एक मार्गदर्शिका प्रदान करता है, जिसमें Day.js संस्करण को खोजने, उसे छोटा करने और प्लग-इन उपयोग निर्देशों को खोजने के सामान्य तरीके शामिल हैं।",
+    "meta_keywords": "मोमेंट.जेएस, डे.जेएस, जावास्क्रिप्ट, डेट-टाइम लाइब्रेरी, माइग्रेशन, लाइटवेट",
+    "title": "मोमेंटज से डेजज में कैसे माइग्रेट करें?"
+  },
+  "migrate_tip": "माइग्रेट टिप",
+  "minimalVersion": "न्यूनतम संस्करण",
+  "momentjs_doc": "मोमेंट.जेएस दस्तावेज़",
+  "momentjs_online_runner": "Moment.js ऑनलाइन रनर",
+  "online_running": "ऑनलाइन चलाना",
+  "reset": "रीसेट",
+  "runcode": "कोड चलाएं",
+  "set_end_of_time": "समय का अंत सेट करें",
+  "set_start_of_time": "समय की शुरुआत सेट करें",
+  "simplifyProcess": "आवश्यकतानुसार प्लगइन जोड़कर और moment और dayjs के बीच अंतरों का परीक्षण करके प्रक्रिया को सरल बनाएं, जैसे startOf('isoweek') को startOf('week') endOf से बदलना",
+  "site": {
+    "runner_title": "अभी अपना कोड चलाएँ",
+    "title": "मोमेंट.जेएस खेल का मैदान"
+  },
+  "system": "सिस्टम",
+  "time_processing": "समय प्रसंस्करण",
+  "ultraLightweight": "आप इसे अल्ट्रा-लाइटवेट संस्करण कह सकते हैं",
+  "userName": "उपयोगकर्ता नाम",
+  "verify_same_date": "समान तिथि सत्यापित करें"
+}

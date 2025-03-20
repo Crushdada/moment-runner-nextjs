@@ -1,0 +1,131 @@
+
+input[type='number'] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#app {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+body {
+  margin: 0;
+  /* color: #333; */
+}
+
+
+.container {
+  width: 50%;
+  border-radius: 0 8px 8px 0;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tab-bar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.tab-bar button {
+  flex: 1;
+  padding: 10px;
+  background-color: #f5f7fa;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #000;
+}
+
+.tab-bar button.active {
+  background-color: #409eff;
+  color: #fff;
+}
+
+.editor {
+  margin-bottom: 20px;
+}
+
+.editor textarea {
+  width: 100%;
+  height: 200px;
+  padding: 8px;
+  color: #333;
+  font-family: monospace;
+}
+
+.output {
+  background-color: #f5f7fa;
+  padding: 10px;
+  color: #333;
+  margin-bottom: 4px;
+  font-family: monospace;
+}
+
+.methods-container {
+  max-width: 300px;
+  overflow-y: auto;
+  height: 80vh;
+  padding: 20px;
+  border-radius: 8px 0 0 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.method-item {
+  margin-bottom: 10px;
+}
+
+.method-item:last-child {
+  margin-bottom: 0;
+}
+
+.method-item .method-name {
+  font-weight: bold;
+}
+
+.method-item .method-description {
+  /* margin-top: 5px; */
+  font-size: 14px;
+}
+
+
+.timezone-select{
+  height: 35px;
+  min-width: 100px;
+  text-align: center;
+}
+.language-switcher select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding-left: 12px;
+  border: 1px solid #409eff;
+  color: #fff;
+  box-shadow: none;
+  background-color: transparent;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.language-switcher select:hover {
+  border-color: #409eff;
+}
+
+.language-switcher select:focus {
+  outline: none;
+  border-color: #409eff;
+  box-shadow: 0 0 3px #409eff;
+}
+

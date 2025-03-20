@@ -1,0 +1,173 @@
+{
+  "Alaska": "Аляска",
+  "Argentina": "Аргентина",
+  "Atlantic": "Атлантическое",
+  "Australia-Eastern": "Восточная Австралия",
+  "Azerbaijan": "Азербайджан",
+  "Azores": "Азорские острова",
+  "Bangladesh": "Бангладеш",
+  "Central": "Центральное",
+  "Central-European": "Центральноевропейское",
+  "China": "Китай",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "Документация Day.js",
+  "Eastern": "Восточное",
+  "Eastern-European": "Восточноевропейское",
+  "Greenwich": "Гринвич",
+  "Hawaii-Aleutian": "Гавайско-Алеутское время",
+  "IDLW": "IDLW",
+  "Indian": "Индия",
+  "Japan": "Япония",
+  "Midway-Island": "Остров Мидуэй",
+  "Migrate tip": "Совет по миграции",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "Документация Moment.js",
+  "Moscow": "Москва",
+  "Mountain": "Горное",
+  "Pacific": "Тихоокеанское",
+  "Pakistan": "Пакистан",
+  "Solomon-Islands": "Соломоновы Острова",
+  "South-Georgia": "Южная Георгия",
+  "addPluginsNote": "Обратите внимание, что вы будете добавлять плагины в зависимости от требований вашего проекта",
+  "add_time": "Добавить время",
+  "calculate_time_difference": "Вычислить разницу во времени",
+  "check_date_validity": "Проверить корректность даты",
+  "check_two_dates_order": "Проверить порядок двух дат",
+  "compare_dates_sequence": "Сравнить последовательность дат",
+  "convert_to_iso_string": "Преобразовать в строку ISO",
+  "convert_to_local_time_zone": "Преобразовать в местный часовой пояс",
+  "convert_to_utc": "Преобразовать в UTC",
+  "copy_moment": "Копировать объект moment",
+  "dark": "Темная",
+  "date_processing": "обработка дат",
+  "date_tools": "инструменты для работы с датами",
+  "dayjsNoPluginTitle": "dayjs без плагинов (исходный код)",
+  "dayjs_doc": "Документ Day.js",
+  "findMethodsTitle": "Как найти методы, используемые в вашем проекте",
+  "format_date_time": "Форматировать дату и время",
+  "get_current_time": "Получить текущее время",
+  "get_set_hour": "Получить или установить часы",
+  "javascriptCode": "JavaScript код",
+  "js_runner": "js исполнитель",
+  "light": "Светлая",
+  "meta_desc": "Испытайте мощь Moment.js и Day.js с нашей онлайн-платформой. Легко выполняйте вычисления, форматирование, разбор и манипуляции с датами и временем",
+  "meta_keywords": "игровая площадка Dayjs, песочница Moment.js, игровая площадка Momentjs, Moment.js, Day.js, бегун моментов, бегун JS, обработка данных",
+  "migrate": {
+    "meta_desc": "На этой странице представлено руководство по переходу с Moment.js на Day.js, включая распространенные методы поиска и свертывания версии Day.js, а также инструкции по использованию подключаемого модуля.",
+    "meta_keywords": "Moment.js, Day.js, JavaScript, библиотека даты и времени, миграция, упрощенный вариант",
+    "title": "Как перейти с momentjs на dayjs?"
+  },
+  "migrate_tip": "Совет по миграции",
+  "minimalVersion": "Минимальная версия",
+  "momentjs_doc": "Документ Moment.js",
+  "momentjs_online_runner": "Онлайн-исполнитель Moment.js",
+  "online_running": "онлайн-выполнение",
+  "reset": "Сбросить",
+  "runcode": "Запустить код",
+  "set_end_of_time": "Установить конец времени",
+  "set_start_of_time": "Установить начало времени",
+  "simplifyProcess": "Упростите процесс, добавляя плагины по мере необходимости и тестируя различия между moment и dayjs, например, заменяя startOf('isoweek') на startOf('week') endOf",
+  "site": {
+    "runner_title": "Запустите свой код прямо сейчас",
+    "title": "Игровая площадка Moment.js"
+  },
+  "system": "Системная",
+  "time_processing": "обработка времени",
+  "ultraLightweight": "Вы можете назвать это ультралегкой версией",
+  "userName": "Имя пользователя",
+  "verify_same_date": "Проверить одинаковую дату"
+}

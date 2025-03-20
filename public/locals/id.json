@@ -1,0 +1,173 @@
+{
+  "Alaska": "Alaska",
+  "Argentina": "Argentina",
+  "Atlantic": "Atlantik",
+  "Australia-Eastern": "Australia Timur",
+  "Azerbaijan": "Azerbaijan",
+  "Azores": "Azores",
+  "Bangladesh": "Bangladesh",
+  "Central": "Tengah",
+  "Central-European": "Eropa Tengah",
+  "China": "Cina",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "Dokumentasi Day.js",
+  "Eastern": "Timur",
+  "Eastern-European": "Eropa Timur",
+  "Greenwich": "Greenwich",
+  "Hawaii-Aleutian": "Hawaii-Aleutian",
+  "IDLW": "IDLW",
+  "Indian": "India",
+  "Japan": "Jepang",
+  "Midway-Island": "Pulau Midway",
+  "Migrate tip": "Tips migrasi",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "Dokumentasi Moment.js",
+  "Moscow": "Moskow",
+  "Mountain": "Pegunungan",
+  "Pacific": "Pasifik",
+  "Pakistan": "Pakistan",
+  "Solomon-Islands": "Kepulauan Solomon",
+  "South-Georgia": "Georgia Selatan",
+  "addPluginsNote": "Harap perhatikan bahwa Anda akan menambahkan plugin berdasarkan kebutuhan proyek Anda",
+  "add_time": "Tambah Waktu",
+  "calculate_time_difference": "Hitung Perbedaan Waktu",
+  "check_date_validity": "Periksa Keabsahan Tanggal",
+  "check_two_dates_order": "Periksa urutan dua tanggal",
+  "compare_dates_sequence": "Bandingkan urutan tanggal",
+  "convert_to_iso_string": "Konversi ke string ISO",
+  "convert_to_local_time_zone": "Konversi ke Zona Waktu Lokal",
+  "convert_to_utc": "Konversi ke UTC",
+  "copy_moment": "Salin objek moment",
+  "dark": "Gelap",
+  "date_processing": "pemrosesan tanggal",
+  "date_tools": "alat tanggal",
+  "dayjsNoPluginTitle": "dayjs tanpa plugin (kode sumber)",
+  "dayjs_doc": "dokumen Day.js",
+  "findMethodsTitle": "Cara menemukan metode yang digunakan dalam proyek Anda",
+  "format_date_time": "Format Tanggal Waktu",
+  "get_current_time": "Dapatkan Waktu Saat Ini",
+  "get_set_hour": "Dapatkan atau atur jam",
+  "javascriptCode": "Kode JavaScript",
+  "js_runner": "penjalanan js",
+  "light": "Terang",
+  "meta_desc": "Rasakan kekuatan Moment.js dan Day.js dengan platform online kami. Lakukan perhitungan, pemformatan, penguraian, dan manipulasi tanggal dan waktu dengan mudah",
+  "meta_keywords": "taman bermain dayjs, Kotak Pasir Moment.js, taman bermain Momentjs, Moment.js, Day.js, pelari momen, pelari JS, pemrosesan tanggal",
+  "migrate": {
+    "meta_desc": "Halaman ini menyediakan panduan untuk bermigrasi dari Moment.js ke Day.js, termasuk metode umum untuk menemukan, meminimalkan versi Day.js, dan petunjuk penggunaan plugin.",
+    "meta_keywords": "Moment.js, Day.js, JavaScript, perpustakaan tanggal-waktu, migrasi, ringan",
+    "title": "Bagaimana cara bermigrasi dari momentjs ke dayjs?"
+  },
+  "migrate_tip": "Tips migrasi",
+  "minimalVersion": "Versi minimal",
+  "momentjs_doc": "Dokumen Moment.js",
+  "momentjs_online_runner": "Penjalankan online Moment.js",
+  "online_running": "menjalankan online",
+  "reset": "Reset",
+  "runcode": "Jalankan kode",
+  "set_end_of_time": "Atur Akhir Waktu",
+  "set_start_of_time": "Atur Awal Waktu",
+  "simplifyProcess": "Sederhanakan proses dengan menambahkan plugin sesuai kebutuhan dan menguji perbedaan antara moment dan dayjs, seperti mengganti startOf('isoweek') dengan startOf('week') endOf",
+  "site": {
+    "runner_title": "Jalankan kode Anda sekarang",
+    "title": "Taman Bermain Moment.js"
+  },
+  "system": "Sistem",
+  "time_processing": "pemrosesan waktu",
+  "ultraLightweight": "Anda bisa menyebutnya versi ultra ringan",
+  "userName": "Nama Pengguna",
+  "verify_same_date": "Verifikasi tanggal yang sama"
+}

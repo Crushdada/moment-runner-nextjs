@@ -1,0 +1,173 @@
+{
+  "Alaska": "アラスカ",
+  "Argentina": "アルゼンチン",
+  "Atlantic": "大西洋",
+  "Australia-Eastern": "オーストラリア東部",
+  "Azerbaijan": "アゼルバイジャン",
+  "Azores": "アゾレス",
+  "Bangladesh": "バングラデシュ",
+  "Central": "中部",
+  "Central-European": "中央ヨーロッパ",
+  "China": "中国",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "Day.jsドキュメント",
+  "Eastern": "東部",
+  "Eastern-European": "東ヨーロッパ",
+  "Greenwich": "グリニッジ",
+  "Hawaii-Aleutian": "ハワイ・アリューシャン",
+  "IDLW": "国際日付変更線西",
+  "Indian": "インド",
+  "Japan": "日本",
+  "Midway-Island": "ミッドウェー島",
+  "Migrate tip": "移行のヒント",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "Moment.jsドキュメント",
+  "Moscow": "モスクワ",
+  "Mountain": "山岳部",
+  "Pacific": "太平洋",
+  "Pakistan": "パキスタン",
+  "Solomon-Islands": "ソロモン諸島",
+  "South-Georgia": "サウスジョージア",
+  "addPluginsNote": "プロジェクトの要件に基づいてプラグインを追加することに注意してください",
+  "add_time": "時間を追加",
+  "calculate_time_difference": "時間差を計算",
+  "check_date_validity": "日付の有効性を確認",
+  "check_two_dates_order": "2つの日付の順序を確認",
+  "compare_dates_sequence": "日付の順序を比較",
+  "convert_to_iso_string": "ISO文字列に変換",
+  "convert_to_local_time_zone": "ローカルタイムゾーンに変換",
+  "convert_to_utc": "UTCに変換",
+  "copy_moment": "momentオブジェクトをコピー",
+  "dark": "ダーク",
+  "date_processing": "日付処理",
+  "date_tools": "日付ツール",
+  "dayjsNoPluginTitle": "プラグインなしのdayjs（ソースコード）",
+  "dayjs_doc": "Day.js ドキュメント",
+  "findMethodsTitle": "プロジェクトで使用されているメソッドを見つける方法",
+  "format_date_time": "日時をフォーマット",
+  "get_current_time": "現在時刻を取得",
+  "get_set_hour": "時間を取得または設定",
+  "javascriptCode": "JavaScriptコード",
+  "js_runner": "JSランナー",
+  "light": "ライト",
+  "meta_desc": "オンラインプラットフォームでMoment.jsとDay.jsのパワーを体験してください。日付と時間の計算、フォーマット、解析、操作を簡単に行えます",
+  "meta_keywords": "dayjs プレイグラウンド, Moment.js サンドボックス, Momentjs プレイグラウンド, Moment.js, Day.js, モーメント ランナー, JS ランナー, 日付処理",
+  "migrate": {
+    "meta_desc": "このページでは、Day.js バージョンを見つけて最小化する一般的な方法、プラグインの使用手順など、Moment.js から Day.js に移行するためのガイドを提供します。",
+    "meta_keywords": "Moment.js、Day.js、JavaScript、日時ライブラリ、移行、軽量",
+    "title": "momentjs から dayjs に移行するにはどうすればよいですか?"
+  },
+  "migrate_tip": "移行のヒント",
+  "minimalVersion": "最小バージョン",
+  "momentjs_doc": "Moment.js ドキュメント",
+  "momentjs_online_runner": "Moment.jsオンラインランナー",
+  "online_running": "オンライン実行",
+  "reset": "リセット",
+  "runcode": "コードを実行",
+  "set_end_of_time": "時間の終了を設定",
+  "set_start_of_time": "時間の開始を設定",
+  "simplifyProcess": "必要に応じてプラグインを追加し、momentとdayjsの違いをテストすることでプロセスを簡素化します。例えば、startOf('isoweek')をstartOf('week') endOfに置き換えるなど",
+  "site": {
+    "runner_title": "今すぐコードを実行してください",
+    "title": "Moment.js プレイグラウンド"
+  },
+  "system": "システム",
+  "time_processing": "時間処理",
+  "ultraLightweight": "超軽量バージョンと呼べます",
+  "userName": "ユーザー名",
+  "verify_same_date": "同じ日付を確認"
+}

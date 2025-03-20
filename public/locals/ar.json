@@ -1,0 +1,173 @@
+{
+  "Alaska": "ألاسكا",
+  "Argentina": "الأرجنتين",
+  "Atlantic": "الأطلسي",
+  "Australia-Eastern": "شرق أستراليا",
+  "Azerbaijan": "أذربيجان",
+  "Azores": "جزر الأزور",
+  "Bangladesh": "بنغلاديش",
+  "Central": "المركزي",
+  "Central-European": "وسط أوروبا",
+  "China": "الصين",
+  "Day": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Day.js doc": "وثائق Day.js",
+  "Eastern": "الشرقي",
+  "Eastern-European": "شرق أوروبا",
+  "Greenwich": "غرينتش",
+  "Hawaii-Aleutian": "هاواي-أليوشيان",
+  "IDLW": "خط التاريخ الدولي الغربي",
+  "Indian": "الهند",
+  "Japan": "اليابان",
+  "Midway-Island": "جزيرة ميدواي",
+  "Migrate tip": "نصيحة الترحيل",
+  "Moment": {
+    "__i18n_ally_root__": {
+      "__i18n_ally_root__": {
+        "__i18n_ally_root__": {
+          "__i18n_ally_root__": {
+            "__i18n_ally_root__": {
+              "__i18n_ally_root__": {
+                "__i18n_ally_root__": {
+                  "__i18n_ally_root__": {
+                    "__i18n_ally_root__": {
+                      "__i18n_ally_root__": {
+                        "__i18n_ally_root__": {
+                          "__i18n_ally_root__": {
+                            "__i18n_ally_root__": {
+                              "__i18n_ally_root__": {
+                                "__i18n_ally_root__": {
+                                  "js doc": ""
+                                },
+                                "js doc": ""
+                              },
+                              "js doc": ""
+                            },
+                            "js doc": ""
+                          },
+                          "js doc": ""
+                        },
+                        "js doc": ""
+                      },
+                      "js doc": ""
+                    },
+                    "js doc": ""
+                  },
+                  "js doc": ""
+                },
+                "js doc": ""
+              },
+              "js doc": ""
+            },
+            "js doc": ""
+          },
+          "js doc": ""
+        },
+        "js doc": ""
+      },
+      "js doc": ""
+    },
+    "js doc": ""
+  },
+  "Moment.js doc": "وثائق Moment.js",
+  "Moscow": "موسكو",
+  "Mountain": "الجبلي",
+  "Pacific": "المحيط الهادئ",
+  "Pakistan": "باكستان",
+  "Solomon-Islands": "جزر سليمان",
+  "South-Georgia": "جورجيا الجنوبية",
+  "addPluginsNote": "يرجى ملاحظة أنك ستضيف الإضافات بناءً على متطلبات مشروعك",
+  "add_time": "إضافة وقت",
+  "calculate_time_difference": "حساب فرق الوقت",
+  "check_date_validity": "التحقق من صحة التاريخ",
+  "check_two_dates_order": "التحقق من ترتيب تاريخين",
+  "compare_dates_sequence": "مقارنة تسلسل التواريخ",
+  "convert_to_iso_string": "التحويل إلى سلسلة ISO",
+  "convert_to_local_time_zone": "التحويل إلى المنطقة الزمنية المحلية",
+  "convert_to_utc": "التحويل إلى UTC",
+  "copy_moment": "نسخ كائن moment",
+  "dark": "داكن",
+  "date_processing": "معالجة التواريخ",
+  "date_tools": "أدوات التاريخ",
+  "dayjsNoPluginTitle": "dayjs بدون إضافات (الكود المصدري)",
+  "dayjs_doc": "وثيقة Day.js",
+  "findMethodsTitle": "كيفية العثور على الطرق المستخدمة في مشروعك",
+  "format_date_time": "تنسيق التاريخ والوقت",
+  "get_current_time": "الحصول على الوقت الحالي",
+  "get_set_hour": "الحصول على أو تعيين الساعات",
+  "javascriptCode": "كود جافا سكريبت",
+  "js_runner": "مشغل جافا سكريبت",
+  "light": "فاتح",
+  "meta_desc": "اختبر قوة Moment.js و Day.js مع منصتنا عبر الإنترنت. قم بإجراء العمليات الحسابية والتنسيق والتحليل والتلاعب بالتواريخ والأوقات بسهولة",
+  "meta_keywords": "ملعب dayjs، Moment.js Sandbox، ملعب Momentjs، Moment.js، Day.js، عداء اللحظة، عداء JS، معالجة التاريخ",
+  "migrate": {
+    "meta_desc": "توفر هذه الصفحة دليلاً للانتقال من Moment.js إلى Day.js، بما في ذلك الطرق الشائعة للعثور على إصدار Day.js وتقليله وتعليمات استخدام المكون الإضافي.",
+    "meta_keywords": "Moment.js، Day.js، JavaScript، مكتبة التاريخ والوقت، الترحيل، خفيف الوزن",
+    "title": "كيفية الهجرة من momentjs إلى dayjs؟"
+  },
+  "migrate_tip": "نصيحة الترحيل",
+  "minimalVersion": "النسخة الأدنى",
+  "momentjs_doc": "وثيقة Moment.js",
+  "momentjs_online_runner": "مشغل Moment.js عبر الإنترنت",
+  "online_running": "التشغيل عبر الإنترنت",
+  "reset": "إعادة تعيين",
+  "runcode": "تشغيل الكود",
+  "set_end_of_time": "تعيين نهاية الوقت",
+  "set_start_of_time": "تعيين بداية الوقت",
+  "simplifyProcess": "قم بتبسيط العملية عن طريق إضافة الإضافات حسب الحاجة واختبار الاختلافات بين moment و dayjs، مثل استبدال startOf('isoweek') بـ startOf('week') endOf",
+  "site": {
+    "runner_title": "قم بتشغيل التعليمات البرمجية الخاصة بك الآن",
+    "title": "ملعب Moment.js"
+  },
+  "system": "النظام",
+  "time_processing": "معالجة الوقت",
+  "ultraLightweight": "يمكنك تسميتها النسخة فائقة الخفة",
+  "userName": "اسم المستخدم",
+  "verify_same_date": "التحقق من نفس التاريخ"
+}
