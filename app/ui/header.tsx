@@ -48,15 +48,14 @@ const Header = () => {
           <Button
             variant="ghost"
             size="icon"
-            className="rounded-full hover:bg-purple-200 dark:hover:bg-purple-900"
+            className="rounded-full"
             onClick={() => {
               window.open('https://github.com/Crushdada/moment-runner-nextjs', '_blank');
             }}
             aria-label="Toggle theme"
           >
             <CarbonLogoGithub
-              className="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all
-        dark:-rotate-90 dark:scale-0 text-purple-600 dark:text-purple-400"
+              className="h-[1.2rem] w-[1.2rem] transition-all"
             />
           </Button>
           <ModeToggle />
