@@ -9,55 +9,7 @@
   "Central": "मध्य",
   "Central-European": "मध्य यूरोपीय",
   "China": "चीन",
-  "Day": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Day.js doc": "Day.js दस्तावेज़",
+  "Dayjs-doc": "Day.js दस्तावेज़",
   "Eastern": "पूर्वी",
   "Eastern-European": "पूर्वी यूरोपीय",
   "Greenwich": "ग्रीनविच",
@@ -67,55 +19,7 @@
   "Japan": "जापान",
   "Midway-Island": "मिडवे द्वीप",
   "Migrate tip": "माइग्रेट टिप",
-  "Moment": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Moment.js doc": "Moment.js दस्तावेज़",
+  "Momentjs-doc": "Moment.js दस्तावेज़",
   "Moscow": "मास्को",
   "Mountain": "पर्वतीय",
   "Pacific": "प्रशांत",

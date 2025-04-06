@@ -43,7 +43,7 @@ pnpm run dev
 
 ### 添加新语言
 
-1. 在 `public/locals/` 目录下添加新的语言文件,如 `fr.json`
+1. 在 `messages/` 目录下添加新的语言文件,如 `fr.json`
 2. 在 `lib/config.ts` 中的 `locales` 对象添加新语言配置
 
 ### 在组件中使用国际化

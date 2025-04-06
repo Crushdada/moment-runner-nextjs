@@ -1,5 +1,7 @@
 import MigrateClient from './MigrateClient'
-import { baseMetadata, genOpenGraphByLangActor, genTwitterByLangActor, locales, baseUrl } from '@lib/config'
+import { baseMetadata, genOpenGraphByLangActor, genTwitterByLangActor, locales, baseUrl,
+  languagesWithoutDefault
+ } from '@lib/config'
 import type { Metadata, ResolvingMetadata, Viewport } from 'next'
 import { useLocaleServer } from '@lib/useLocaleServer'
 
@@ -8,8 +10,7 @@ type Props = {
   searchParams: { [key: string]: string | string[] | undefined }
 }
 
-const languages = Object.keys(locales).reduce((acc: any, lang: string) => {
-  if (lang === 'en') return acc
+const languages = languagesWithoutDefault.reduce((acc: any, lang: string) => {
   acc[lang] = `${baseUrl}/${lang}/migrate`
   return acc
 }, {});
@@ -19,8 +20,8 @@ export async function generateMetadata(
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   // read route params
-  const lang = params?.lang || 'en'
-  const { t } = useLocaleServer(lang)
+  const { t, lang } = await useLocaleServer();
+
 
   return {
     ...baseMetadata,

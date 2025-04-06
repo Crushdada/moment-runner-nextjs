@@ -1,7 +1,6 @@
 'use client'
 
 import * as React from "react"
-
 import {
   Select,
   SelectContent,
@@ -9,23 +8,34 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
-import { useLocaleClient } from '@lib/useLocaleClient';
-import { useChangeLanguage } from '@lib/useChangeLang';
-import { locales } from '@lib/config';
+import { useLocale } from "next-intl";
+import { locales, languages } from '@lib/config';
+import { useRouter, usePathname } from "@i18n/routing";
 
 export function LanguageSelect() {
-  const { lang: currentLanguage } = useLocaleClient()
-  const handleLanguageChange = useChangeLanguage()
+  const locale = useLocale();
+  const router = useRouter();
+  const pathname = usePathname(); // 获取当前路径
+
+  const handleLanguageChange = (localeKey: string) => {
+    // 如果已经是当前语言，不做任何操作
+    if (locale === localeKey) return;
+
+    // 使用router进行导航
+    router.replace(pathname, { locale: localeKey });
+  };
 
   return (
-    <Select onValueChange={handleLanguageChange} defaultValue={currentLanguage}>
-      <SelectTrigger className="w-[100px]">
+    <Select defaultValue={locale}
+    onValueChange={handleLanguageChange}
+    >
+      <SelectTrigger className="w-[130px]">
         <SelectValue placeholder="Language" />
       </SelectTrigger>
       <SelectContent>
-        {Object.keys(locales).map((locale) => (
-          <SelectItem key={locale} value={locale}>
-            {locales[locale as keyof typeof locales]}
+        {languages.map((localeKey) => (
+          <SelectItem key={localeKey} value={localeKey}>
+            {locales[localeKey as keyof typeof locales]}
           </SelectItem>
         ))}
       </SelectContent>

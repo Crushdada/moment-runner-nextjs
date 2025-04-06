@@ -2,10 +2,11 @@ import type { Metadata } from 'next'
 
 export const baseUrl = 'https://momentjs-runner.netlify.app'
 export const siteName = 'Moment.js Playground'
+export const defaultLang = 'en'
 export const locales = {
+  en: 'English',
   ar: 'العربية',
   de: 'Deutsch',
-  en: 'English',
   es: 'Español',
   fr: 'Français',
   hi: 'हिन्दी',
@@ -15,8 +16,12 @@ export const locales = {
   ru: 'Русский',
   'zh-CN': '中文'
 };
+export const languages = Object.keys(locales)
+export const languagesWithoutDefault = Object.keys(locales).filter(i=>i!=defaultLang)
 
-const languages = Object.keys(locales).reduce((acc: any, lang: string) => {
+
+
+const langPaths = Object.keys(locales).reduce((acc: any, lang: string) => {
   if (lang === 'en') return acc
   acc[lang] = `${baseUrl}/${lang}`
   return acc
@@ -35,7 +40,7 @@ export const baseMetadata: Metadata = {
   alternates: {
     canonical: `${baseUrl}/en`,
     languages: {
-      ...languages,
+      ...langPaths,
       'x-default': `${baseUrl}/en`,
     },
   },

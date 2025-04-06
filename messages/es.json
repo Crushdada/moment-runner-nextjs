@@ -9,55 +9,7 @@
   "Central": "Central",
   "Central-European": "Europa Central",
   "China": "China",
-  "Day": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Day.js doc": "Documentación de Day.js",
+  "Dayjs-doc": "Documentación de Day.js",
   "Eastern": "Este",
   "Eastern-European": "Europa del Este",
   "Greenwich": "Greenwich",
@@ -67,55 +19,7 @@
   "Japan": "Japón",
   "Midway-Island": "Isla Midway",
   "Migrate tip": "Consejo de migración",
-  "Moment": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Moment.js doc": "Documentación de Moment.js",
+  "Momentjs-doc": "Documentación de Moment.js",
   "Moscow": "Moscú",
   "Mountain": "Montaña",
   "Pacific": "Pacífico",

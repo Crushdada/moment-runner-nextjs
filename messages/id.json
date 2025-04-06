@@ -9,55 +9,7 @@
   "Central": "Tengah",
   "Central-European": "Eropa Tengah",
   "China": "Cina",
-  "Day": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Day.js doc": "Dokumentasi Day.js",
+  "Dayjs-doc": "Dokumentasi Day.js",
   "Eastern": "Timur",
   "Eastern-European": "Eropa Timur",
   "Greenwich": "Greenwich",
@@ -67,55 +19,7 @@
   "Japan": "Jepang",
   "Midway-Island": "Pulau Midway",
   "Migrate tip": "Tips migrasi",
-  "Moment": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Moment.js doc": "Dokumentasi Moment.js",
+  "Momentjs-doc": "Dokumentasi Moment.js",
   "Moscow": "Moskow",
   "Mountain": "Pegunungan",
   "Pacific": "Pasifik",

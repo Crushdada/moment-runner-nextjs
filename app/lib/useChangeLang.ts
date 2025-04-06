@@ -1,12 +1,13 @@
-import { useRouter, usePathname } from 'next/navigation'
+// import { useRouter, usePathname } from '@i18n/routing';
+// import { locales } from '@lib/config';
 
-export const useChangeLanguage = () => {
-  const router = useRouter();
-  const pathname = usePathname();
+// export function useChangeLang() {
+//   const router = useRouter();
+//   const pathname = usePathname();
 
-  return (newLang: string) => {
-    const pathWithoutLang = pathname.replace(/^\/([a-z]{2}(-[A-Z]{2})?)/,'');
-    const newPath = `/${newLang}${pathWithoutLang}`;
-    router.push(newPath);
-  };
-};
+//   const changeLang = (lang: keyof typeof locales) => {
+//     router.replace(pathname, { locale: lang });
+//   };
+
+//   return changeLang;
+// }

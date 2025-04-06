@@ -32,7 +32,10 @@
       ],
       "@utils": [
         "./app/lib/utils"
-      ]
+      ],
+      "@i18n/*": [
+        "./app/i18n/*"
+      ],
     },
     "forceConsistentCasingInFileNames": true, // 添加此行
     "allowSyntheticDefaultImports": true // 添加此行

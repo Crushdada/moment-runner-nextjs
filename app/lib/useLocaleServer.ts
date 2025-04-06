@@ -1,17 +1,14 @@
-import { useLocaleByLang } from './useLocaleByLang';
-import { locales } from './config';
-import { headers } from 'next/headers';
+import { getLocale, getTranslations } from 'next-intl/server';
 
-export function useLocaleServer(lang?: string) {
-  if (lang) {
-    return useLocaleByLang(lang)
-  }
 
-  const headersList = headers()
-  const pathname = headersList.get('x-pathname') || ''
-  const pathLang = pathname.split('/')[1] || ''
+export async function useLocaleServer(namespace?: string) {
+  const [lang, t] = await Promise.all([
+    getLocale(),
+    getTranslations(namespace)
+  ]);
 
-  // 检查获取的语言代码是否在支持的语言列表中
-  lang = Object.keys(locales).includes(pathLang) ? pathLang : 'en'
-  return useLocaleByLang(lang)
+  return {
+    t,    // 翻译函数
+    lang  // 当前语言标识
+  };
 }

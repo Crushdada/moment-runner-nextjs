@@ -1,10 +1,9 @@
 import type { MetadataRoute } from 'next'
-import { locales, baseUrl } from '@lib/config'
+import { languages, baseUrl, defaultLang } from '@lib/config'
 
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // 支持的语言列表
-  const languages = Object.keys(locales)
   // 需要生成sitemap的路由路径
   const routes = ['', '/migrate']
   const sitemap: MetadataRoute.Sitemap = []
@@ -12,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   languages.forEach(lang => {
     routes.forEach(route => {
       sitemap.push({
-        url: `${baseUrl}/${lang}${route}`,
+        url: defaultLang == lang ? `${baseUrl}${route}` : `${baseUrl}/${lang}${route}`,
         lastModified: new Date(),
         changeFrequency: route === '' ? 'daily' : 'weekly',
         priority: route === '' ? 1 : 0.8,

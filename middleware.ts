@@ -1,16 +1,14 @@
-import { NextResponse } from 'next/server'
-import type { NextRequest } from 'next/server'
+import createMiddleware from "next-intl/middleware";
+import { defaultLang, languages} from "@lib/config";
 
-export function middleware(request: NextRequest) {
-  const { pathname } = request.nextUrl
-
-  if (pathname === '/') {
-    // 检查 Accept-Language 头或 cookie 来决定默认语言
-    const defaultLang = 'en' // 或者根据用户偏好动态决定
-    return NextResponse.redirect(new URL(`/${defaultLang}`, request.url))
-  }
-}
+export default createMiddleware({
+  locales: languages,
+  defaultLocale: defaultLang,
+  // 添加这个配置来防止重定向
+  localePrefix: "as-needed",
+  // localeDetection: false, // 禁用自动检测用户语言
+});
 
 export const config = {
-  matcher: '/',
-}
+  matcher: ["/((?!api|_next|_vercel|.*\\..*).*)"]
+};

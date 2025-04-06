@@ -9,55 +9,7 @@
   "Central": "Central",
   "Central-European": "Central European",
   "China": "China",
-  "Day": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Day.js doc": "Day.js doc",
+  "Dayjs-doc": "Dayjs-doc",
   "Eastern": "Eastern",
   "Eastern-European": "Eastern European",
   "Greenwich": "Greenwich",
@@ -67,55 +19,7 @@
   "Japan": "Japan",
   "Midway-Island": "Midway Island",
   "Migrate tip": "Migrate tip",
-  "Moment": {
-    "__i18n_ally_root__": {
-      "__i18n_ally_root__": {
-        "__i18n_ally_root__": {
-          "__i18n_ally_root__": {
-            "__i18n_ally_root__": {
-              "__i18n_ally_root__": {
-                "__i18n_ally_root__": {
-                  "__i18n_ally_root__": {
-                    "__i18n_ally_root__": {
-                      "__i18n_ally_root__": {
-                        "__i18n_ally_root__": {
-                          "__i18n_ally_root__": {
-                            "__i18n_ally_root__": {
-                              "__i18n_ally_root__": {
-                                "__i18n_ally_root__": {
-                                  "js doc": ""
-                                },
-                                "js doc": ""
-                              },
-                              "js doc": ""
-                            },
-                            "js doc": ""
-                          },
-                          "js doc": ""
-                        },
-                        "js doc": ""
-                      },
-                      "js doc": ""
-                    },
-                    "js doc": ""
-                  },
-                  "js doc": ""
-                },
-                "js doc": ""
-              },
-              "js doc": ""
-            },
-            "js doc": ""
-          },
-          "js doc": ""
-        },
-        "js doc": ""
-      },
-      "js doc": ""
-    },
-    "js doc": ""
-  },
-  "Moment.js doc": "Moment.js doc",
+  "Momentjs-doc": "Momentjs-doc",
   "Moscow": "Moscow",
   "Mountain": "Mountain",
   "Pacific": "Pacific",
@@ -136,7 +40,7 @@
   "date_processing": "date processing",
   "date_tools": "date tools",
   "dayjsNoPluginTitle": "dayjs without plugins (source code)",
-  "dayjs_doc": "Day.js doc",
+  "dayjs_doc": "Dayjs-doc",
   "findMethodsTitle": "How to find methods used in your project",
   "format_date_time": "Format Date Time",
   "get_current_time": "Get Current Time",
@@ -153,7 +57,7 @@
   },
   "migrate_tip": "Migrate tip",
   "minimalVersion": "Minimal Version",
-  "momentjs_doc": "Moment.js doc",
+  "momentjs_doc": "Momentjs-doc",
   "momentjs_online_runner": "Moment.js online Runner",
   "online_running": "online running",
   "reset": "Reset",

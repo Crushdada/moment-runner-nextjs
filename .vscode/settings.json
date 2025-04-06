@@ -1,9 +1,9 @@
 {
   "i18n-ally.localesPaths": [
-    "public/locals",     // 你的语言文件目录
+    "messages",     // 你的语言文件目录
   ],
   "i18n-ally.keystyle": "nested",  // 支持嵌套的翻译键
-  "i18n-ally.sourceLanguage": "en", // 源语言
+  "i18n-ally.sourceLanguage": "zh-CN", // 源语言
   "i18n-ally.displayLanguage": "zh-CN", // 显示语言
   "i18n-ally.enabledFrameworks": ["react"],
   "i18n-ally.namespace": true, // 是否启用命名空间

@@ -27,7 +27,7 @@ const CodeRunner = forwardRef((props, ref) => {
 
   useEffect(() => {
     console.log = function (...arg) {
-      outputRef.current.innerHTML += arg.join("") + "<br>";
+      if (outputRef.current) outputRef.current.innerHTML += arg.join("") + "<br>";
     };
   });
 
