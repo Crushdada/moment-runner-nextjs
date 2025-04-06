@@ -51,9 +51,9 @@ pnpm run dev
 服务端组件:
 
 ```tsx
-import { useLocaleServer } from '@/app/lib/useLocaleServer'
+import { useLocaleServer } from '@lib/useLocaleServer'
   export default function Component() {
-  const { t } = useLocaleServer(lang)
+  const { t } = useLocaleServer()
   return <div>{t('key')}</div>
 }
 ```
@@ -61,7 +61,7 @@ import { useLocaleServer } from '@/app/lib/useLocaleServer'
 客户端组件:
 
 ```tsx
-import { useLocaleClient } from '@/app/lib/useLocaleClient'
+import { useLocaleClient } from '@lib/useLocaleClient'
   export default function Component() {
   const { t } = useLocaleClient()
   return <div>{t('key')}</div>
@@ -71,10 +71,7 @@ import { useLocaleClient } from '@/app/lib/useLocaleClient'
 ### 语言切换
 
 ```
-tsx
-import { useChangeLanguage } from '@/app/lib/useChangeLang'
-const handleLanguageChange = useChangeLanguage()
-<Select onValueChange={handleLanguageChange}>
+见 components/language-select.tsx 组件
 ```
 
 
@@ -85,8 +82,8 @@ const handleLanguageChange = useChangeLanguage()
 ```
 tsx
 export async function generateMetadata({ params }) {
-  const lang = params?.lang || 'en'
-  const { t } = useLocaleByLang(lang)
+  const { t, lang } = await useLocaleServer();
+
   return {
     ...baseMetadata,
     title: t('site.title'),
